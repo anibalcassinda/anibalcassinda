@@ -1,6 +1,6 @@
 # Aníbal Luís 👨‍💻
 
-From Angola 🌍 | Apaixonado por tecnologias 💻 | Desenvolvedor em formação | Status: ✅ Disponível
+From Angola 🇦🇴 | Apaixonado por tecnologias 💻 | Desenvolvedor em formação | Status: ✅ Disponível
 
 ---
 
