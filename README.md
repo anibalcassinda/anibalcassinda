@@ -15,6 +15,12 @@ From Angola 🌍 | Apaixonado por tecnologias 💻 | Desenvolvedor em formação
 
 ---
 
+## 📊 GitHub Stats
+
+![Aníbal GitHub stats](https://github-readme-stats.vercel.app/api?username=cassinda17&show_icons=true&theme=tokyonight)
+
+---
+
 ## 🔗 Let's connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_aniballuis17)
