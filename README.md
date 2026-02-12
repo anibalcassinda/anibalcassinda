@@ -1,10 +1,10 @@
 # Aníbal Luís 👨‍💻
 
-From Angola 🌍 | Apaixonado por tecnologias 💻 | Desenvolvedor em formação | Status: ✅ Disponível
+From Angola 🌍 | Technology enthusiast 💻 | Backend Developer in training | Status: ✅ Available
 
 ---
 
-## 🧠 Habilidades
+## 🧠 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
@@ -17,7 +17,7 @@ From Angola 🌍 | Apaixonado por tecnologias 💻 | Desenvolvedor em formação
 
 ## 📊 GitHub Stats
 
-![Aníbal GitHub stats](https://github-readme-stats.vercel.app/api?username=anibalcassinda&show_icons=true&theme=tokyonight)
+![Aníbal GitHub stats](https://github-readme-stats.vercel.app/api?username=cassinda17&show_icons=true&theme=tokyonight)
 
 ---
 
