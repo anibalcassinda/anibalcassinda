@@ -17,7 +17,7 @@ From Angola 🌍 | Apaixonado por tecnologias 💻 | Desenvolvedor em formação
 
 ## 📊 GitHub Stats
 
-![Aníbal GitHub stats](https://github-readme-stats.vercel.app/api?username=cassinda17&show_icons=true&theme=tokyonight)
+![Aníbal GitHub stats](https://github-readme-stats.vercel.app/api?username=anibalcassinda&show_icons=true&theme=tokyonight)
 
 ---
 
