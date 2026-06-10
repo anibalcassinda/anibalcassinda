@@ -32,7 +32,7 @@ Aqui estão as tecnologias que eu utilizo ou estou aprendendo:
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Como me encontrar 😄
 
 * **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
 * **E-mail:** [seu.email@email.com](mailto:seu.email@email.com)
