@@ -1,26 +1,41 @@
-# Aníbal Luís 👨‍💻
+# Olá, eu sou o Luís! 👋
 
-From Angola 🌍 | Technology enthusiast 💻 | Backend Developer in training | Status: ✅ Available
-
----
-
-## 🧠 Abilities
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🚀 Sobre Mim
+I'm Developer Python
+* 🇧🇷 Baseado em [Sua Cidade/Estado]
+* 🎓 Atualmente estudando [Seu Curso/Foco atual, ex: Análise e Desenvolvimento de Sistemas, Web Development]
+* 💡 Tenho interesse em [Áreas de interesse, ex: Desenvolvimento Web, Mobile, Ciência de Dados]
+* 🌱 No momento, estou aprofundando meus conhecimentos em [Sua tecnologia atual, ex: React, Python]
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Minhas Skills (Habilidades)
 
-![Aníbal GitHub stats](https://github-readme-stats.vercel.app/api?username=cassinda17&show_icons=true&theme=tokyonight)
+Aqui estão as tecnologias que eu utilizo ou estou aprendendo:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `JavaScript` `TypeScript` `Python` `HTML5` `CSS3` |
+| **Frameworks / Libs** | `React` `Node.js` `Express` `Bootstrap` |
+| **Banco de Dados** | `MySQL` `MongoDB` `PostgreSQL` |
+| **Ferramentas / Outros** | `Git` `GitHub` `VS Code` `Linux` |
+
+*(Dica: Remova as tecnologias que você não usa e adicione as suas!)*
 
 ---
 
-## 🔗 Let's connect
+### 📈 Estatísticas do GitHub
+*(Opcional: Essas imagens se atualizam sozinhas com os seus dados do GitHub. Basta trocar `seu-usuario` pelo seu username real do GitHub)*
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_aniballuis17)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150px"/>
+</p>
+
+---
+
+### 📫 Como me encontrar
+
+* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+* **E-mail:** [seu.email@email.com](mailto:seu.email@email.com)
+* **Portfólio:** [link-do-seu-site.com](https://link-do-seu-site.com)
