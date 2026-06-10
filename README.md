@@ -14,9 +14,9 @@ Aqui estão as tecnologias que eu utilizo ou estou aprendendo:
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `JavaScript` `TypeScript` `Python` `HTML5` `CSS3` |
-| **Frameworks / Libs** | `React` `Node.js` `Express` `Bootstrap` |
-| **Banco de Dados** | `MySQL` `MongoDB` `PostgreSQL` |
+| **Linguagens** | `JavaScript` `Python` `HTML5` `CSS3` |
+| **Frameworks / Libs** | `Django` `Node.js` `Express` `Bootstrap` |
+| **Banco de Dados** | `MySQL` `PostgreSQL` |
 | **Ferramentas / Outros** | `Git` `GitHub` `VS Code` `Linux` |
 
 
