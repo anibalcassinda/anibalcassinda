@@ -1,18 +1,18 @@
-# Hi there, I'm Aníbal! 👋
+# Olá, eu sou o Aníbal! 👋
 
-## Python Developer 💻
+## Desenvolvedor Python 💻
 
-* 🎓 **Education:** Currently studying Analysis and Systems Development.
-* 💡 **Interests:** Web Development, Mobile Solutions, and Data Science.
-* 🌱 **Current Focus:** Deepening my knowledge in the Python ecosystem and software architecture.
+* 🎓 **Formação:** Atualmente estudando Análise e Desenvolvimento de Sistemas.
+* 💡 **Interesses:** Desenvolvimento Web, Soluções Mobile e Ciência de Dados.
+* 🌱 **Foco Atual:** Aprofundando meus conhecimentos no ecossistema Python e arquitetura de software.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tecnologias & Habilidades
 
-Here are the technologies I work with and have been actively studying:
+Aqui estão as tecnologias com as quais trabalho e venho estudando ativamente:
 
-**Languages & Web Frontend**
+**Linguagens & Frontend Web**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -20,29 +20,33 @@ Here are the technologies I work with and have been actively studying:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Frameworks & Databases**
+**Frameworks & Bancos de Dados**
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Estatísticas do GitHub
 
-*(Remember to replace `seu-usuario` with your actual GitHub username in the links below)*
+*(Lembre-se de substituir `seu-usuario` pelo seu nome de usuário real do GitHub nos links abaixo)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial" alt="GitHub Stats" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial" alt="Top Languages" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial" alt="Linguagens Mais Usadas" height="150px"/>
 </p>
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="mailto:anibalcassinda@gmail.com" target="_blank">
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu.email@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
