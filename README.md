@@ -38,7 +38,6 @@ Aqui estão as tecnologias com as quais trabalho e venho estudando ativamente:
 
 ---
 
-### 📫 Vamos nos conectar?
  ### 📫 Vamos nos conectar?
 
 <p align="left">
