@@ -2,9 +2,9 @@
 
 ### I'm Developer Python
 * 🇧🇷 Baseado em [Sua Cidade/Estado]
-* 🎓 Atualmente estudando [Seu Curso/Foco atual, ex: Análise e Desenvolvimento de Sistemas, Web Development]
-* 💡 Tenho interesse em [Áreas de interesse, ex: Desenvolvimento Web, Mobile, Ciência de Dados]
-* 🌱 No momento, estou aprofundando meus conhecimentos em [Sua tecnologia atual, ex: React, Python]
+* 🎓 Atualmente estudando Análise e Desenvolvimento de Sistemas, Web Development
+* 💡 Tenho interesse em Desenvolvimento Web, Mobile, Ciência de Dados
+* 🌱 No momento, estou aprofundando meus conhecimentos em Python
 
 ---
 
@@ -24,7 +24,6 @@ Aqui estão as tecnologias que eu utilizo ou estou aprendendo:
 ---
 
 ### 📈 Estatísticas do GitHub
-*(Opcional: Essas imagens se atualizam sozinhas com os seus dados do GitHub. Basta trocar `seu-usuario` pelo seu username real do GitHub)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150px"/>
