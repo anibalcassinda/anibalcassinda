@@ -1,7 +1,6 @@
-# Olá, eu sou o Luís! 👋
+# Hi there, I'm Aníbal! 👋
 
-### 🚀 Sobre Mim
-I'm Developer Python
+### I'm Developer Python
 * 🇧🇷 Baseado em [Sua Cidade/Estado]
 * 🎓 Atualmente estudando [Seu Curso/Foco atual, ex: Análise e Desenvolvimento de Sistemas, Web Development]
 * 💡 Tenho interesse em [Áreas de interesse, ex: Desenvolvimento Web, Mobile, Ciência de Dados]
@@ -20,7 +19,7 @@ Aqui estão as tecnologias que eu utilizo ou estou aprendendo:
 | **Banco de Dados** | `MySQL` `MongoDB` `PostgreSQL` |
 | **Ferramentas / Outros** | `Git` `GitHub` `VS Code` `Linux` |
 
-*(Dica: Remova as tecnologias que você não usa e adicione as suas!)*
+
 
 ---
 
