@@ -1,7 +1,7 @@
 # Hi there, I'm Aníbal! 👋
 
 ### I'm Developer Python
-* 🇧🇷 Baseado em [Sua Cidade/Estado]
+
 * 🎓 Atualmente estudando Análise e Desenvolvimento de Sistemas, Web Development
 * 💡 Tenho interesse em Desenvolvimento Web, Mobile, Ciência de Dados
 * 🌱 No momento, estou aprofundando meus conhecimentos em Python
